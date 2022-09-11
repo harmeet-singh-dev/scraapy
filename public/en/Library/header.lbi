@@ -1,0 +1,40 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><header>
+	<div class="container rel">     
+     
+     <div class="clearfix"></div>
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <a class="navbar-brand" href="../index.htm" title="Scrapy"><img src="../images/logo.png" alt="Scrapy"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="main_nav">
+	<div class="srch_bar"><span style="line-height: 2.2em"><a href="../cart.htm" class="white"><i class="fas fa-shopping-cart"></i></a> | <a href="#" class="white">AR</a> | <a href="#" class="white">EN</a></span><a href="#" class="toggle usr"><span>Login</span><i class="fas fa-user"></i></a></div>
+    
+    <div class="user_links" id="target">
+    	<div class="row bdrb p-3">
+        	<div class="log_head">Welcome Guest!</div>
+            <div class="log_link"><a href="../login.htm">Login</a><a href="../register.htm">Register</a></div>
+        </div>
+        <div class="finance_area">
+           <ul>
+              <!--<li><a href="../my-account.htm"><i class="fas fa-cog"></i> My Account</a></li>
+              <li><a href="../my-wishlist.htm"><i class="fas fa-heart"></i> My Wishlist</a></li>-->
+              <li><a href="../index.htm"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+           </ul>
+        </div>
+        <div class="clearfix"></div>
+     </div>
+<ul class="navbar-nav ml-auto">
+	<li class="nav-item active"> <a class="nav-link" href="../sell-offers.htm">Sell Offer</a> </li>
+	<li class="nav-item"><a class="nav-link" href="../buy-offers.htm">What We Buy</a></li>
+	<li class="nav-item"><a class="nav-link" href="../used-auto-parts.htm">Used Auto parts</a></li>
+	<li class="nav-item"><a class="nav-link" href="../become-our-partner.htm"> Become A Partner </a></li>
+	<li class="nav-item"><a class="nav-link" href="../contact-us.htm"> Contact Us </a></li>
+</ul>
+
+
+  </div> <!-- navbar-collapse.// -->
+
+</nav>
+</div>
+	</header>
